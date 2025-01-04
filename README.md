@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Esquema-Conceitual---Oficina-Mecanica
 Objetivo:
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
@@ -12,4 +12,4 @@ O valor de cada peça também irá compor a OSO cliente autoriza a execução do
 A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
->>>>>>> f894832 (Adiciona modelo de esquema conceitual e README)
+
